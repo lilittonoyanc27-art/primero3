@@ -1,0 +1,6 @@
+{
+  "name": "Elementos de la Comunicación 🇪🇸🇦🇲",
+  "description": "Aplicación interactiva de estudio y preparación de examen de Lengua Castellana (1º ESO / 7º grado) con traducción armenia al hacer clic y verificación de respuestas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
